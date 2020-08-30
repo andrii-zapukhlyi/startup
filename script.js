@@ -238,7 +238,7 @@
 				$(".works__item-btn-7").addClass("active");   
 			});
 			$(".works__item-img-7").mouseleave(function(){ 
-				$(this).attr('src', 'img/works/Layer_25.png');
+				$(this).attr('src', 'img/works/Layer_26.png');
 				$(".works__item-btn-7").removeClass("active");
 			});
 			$(".works__item-img-8").mouseenter(function(){
@@ -250,7 +250,7 @@
 				$(".works__item-btn-8").addClass("active");   
 			});
 			$(".works__item-img-8").mouseleave(function(){ 
-				$(this).attr('src', 'img/works/Layer_26.png');
+				$(this).attr('src', 'img/works/Layer_25.png');
 				$(".works__item-btn-8").removeClass("active");
 			});
 			$(".works__item-img-9").mouseenter(function(){
